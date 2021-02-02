@@ -4,7 +4,7 @@ Demo DevOps projet using Microservices architecture to deploy a simple appliatio
 
 ## About the app
 
-A simple web application wich generate a PDF repport from a `csv` of the a datased uplaoded on the frontend web
+A simple web application to generate a summary PDF repport from a `csv` dataset uplaoded on the frontend web
 
 ## Tech stack 
 
