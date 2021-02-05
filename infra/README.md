@@ -1,7 +1,7 @@
 
 # Terraform Infra As Code
 
-#### Terraform + K8S on GCP
+### Terraform + K8S on GCP
 
 https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/getting_started
 
