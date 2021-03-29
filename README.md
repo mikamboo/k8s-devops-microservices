@@ -21,6 +21,7 @@ A simple web application to generate a summary PDF repport from a `csv` dataset 
 * [x] Agile planning : Manage project in basic Kanban [Github project](https://github.com/mikamboo/k8s-devops-microservices/projects/1)
 * [ ] Setup Dev environnement : configure a container-based development environment with the VS Code
 * [ ] Automation : Using Github actions for all "continue stuff"
+* [ ] Automation : Of secret management
 * [ ] Branching model : Apply a basic git flow to organiser team work
 * [ ] Infrastructure as code : 1 click create GKE or AKS cluster
 * [ ] Continue testing : Some unit and e2e tests
@@ -30,4 +31,9 @@ A simple web application to generate a summary PDF repport from a `csv` dataset 
 * [ ] Container orchestration : Dockerize and deploy services to k8s cluster
 * [ ] Monitoring and Logging : Deploy prometheus + ELK stacks
 * [ ] Load testing:  with fake traffic using Locust
-* [ ] Automation : Of secret management
+
+## Getting started
+
+1. Clone project
+2. Install VS code [Remote - Containers extension](https://code.visualstudio.com/docs/remote/containers)
+3. Start dev on VS code by openning cmd palette `F1` then search an select `Remote-containers: Reopen in Container`
